@@ -16,4 +16,4 @@ If the selection is successful the score in the top right will increase by 1 and
 Once all five prizes are selected, a congratulatory message will display with the final score in the top right and the option to play again with the 3 key.
 Hard mode can be toggled from the win page for the next round.
 
-![Win Screen](path/to/winscreen.png)
+![Win Screen](winscreen.png)
