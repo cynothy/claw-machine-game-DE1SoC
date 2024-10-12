@@ -2,6 +2,7 @@
 ECE243 Final Project
 
 Operating the Game
+
 Connect to DE1-SoC board with PS2-Keyboard to begin. The game starts with a start page displaying the game title, designers and some input messages.
 From the start page, you can toggle hard mode on or off based on the state of switch 0. Hard mode will increase the size of the prizes making picking up the prizes more difficult.
 Clicking the 3 key on the keyboard will begin the game.
