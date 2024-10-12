@@ -1,4 +1,5 @@
 # claw-machine-game-DE1SoC
+ECE243 Final Project
 
 Operating the Game
 Connect to DE1-SoC board with PS2-Keyboard
